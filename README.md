@@ -12,3 +12,4 @@ Week 2 Challenge!
 Checklist
 -Histogram plot
 -multivariate regression model
+-Outlier plot 
